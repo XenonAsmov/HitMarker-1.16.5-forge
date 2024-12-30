@@ -28,11 +28,14 @@ This repository contains the source code for the **HitMarker** mod for **Minecra
 
 > **Important**: This mod uses **snapshot mappings** for Forge version `20210309-1.16.5`, meaning it may not be compatible with the official Forge version.
 
-## Screenshots
+## Features
 
-To add images to your `README.md`, you need to use **image links**. For example, if you upload an image to Discord and copy the link, you can insert it like this:
+- **Toggle Control**:
+  - Press **F7** to enable the hit marker.
+  - Press **F8** to disable the hit marker.
 
-```markdown
-![HitMarker Preview](https://cdn.discordapp.com/attachments/xxxxxxxxxxxx/xxxxxxxxxxxx/preview.jpg)
+## Screenshot
 
- 
+Here’s a preview of the HitMarker mod in action:
+
+![HitMarker Preview](https://cdn.discordapp.com/attachments/1323239804502020147/1323313494187053116/image.png?ex=67740f3a&is=6772bdba&hm=8b03b915882d86c2a42900c8dc242a2114d2f9ee42b0e49388704233069d5684)
