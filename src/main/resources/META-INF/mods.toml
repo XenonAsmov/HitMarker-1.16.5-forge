@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="XenonAsmov Protective License"
+[[mods]]
+modId="example"
+version="1.0"
+displayName="HitMarker"
+authors="XenonAsmov"
+description='''
+    Github - https://github.com/XenonAsmov
+'''
+[[dependencies.examplemod]]
+modId="forge"
+versionRange="[36,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.examplemod]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.16.5,1.17)"
+ordering="NONE"
+side="BOTH"

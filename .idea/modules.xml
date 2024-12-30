@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1.16.5-Client-Forge-main.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1.16.5-Client-Forge-main.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1.16.5-Client-Forge-main.test.iml" filepath="$PROJECT_DIR$/.idea/modules/1.16.5-Client-Forge-main.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FPS-Upgrader.main.iml" filepath="$PROJECT_DIR$/.idea/modules/FPS-Upgrader.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FPS-Upgrader.test.iml" filepath="$PROJECT_DIR$/.idea/modules/FPS-Upgrader.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SelectHelper.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SelectHelper.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SelectHelper.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SelectHelper.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SelectVisuals.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SelectVisuals.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SelectVisuals.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SelectVisuals.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SelectVisualsOLD.iml" filepath="$PROJECT_DIR$/.idea/modules/SelectVisualsOLD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SelectVisualsOLD.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SelectVisualsOLD.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SelectVisualsOLD.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SelectVisualsOLD.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.yourname.modid.SelectVisuals.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.yourname.modid.SelectVisuals.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.yourname.modid.SelectVisuals.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.yourname.modid.SelectVisuals.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.yourname.modid.SelectVisualsOLD.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.yourname.modid.SelectVisualsOLD.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.yourname.modid.SelectVisualsOLD.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.yourname.modid.SelectVisualsOLD.test.iml" />
+    </modules>
+  </component>
+</project>

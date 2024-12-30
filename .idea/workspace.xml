@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50784768-4cc9-48a9-b901-c650eafab585" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="GulPvPTags" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="1.16.5-Client-Forge-main.main/invalid/Minecraft" />
+      <facet id="1.16.5-Client-Forge-main.test/invalid/Minecraft" />
+      <facet id="FPS-Upgrader.main/invalid/Minecraft" />
+      <facet id="FPS-Upgrader.test/invalid/Minecraft" />
+      <facet id="SelectHelper.main/invalid/Minecraft" />
+      <facet id="SelectHelper.test/invalid/Minecraft" />
+      <facet id="SelectVisuals.main/invalid/Minecraft" />
+      <facet id="SelectVisuals.test/invalid/Minecraft" />
+      <facet id="com.yourname.modid.SelectVisuals.main/invalid/Minecraft" />
+      <facet id="com.yourname.modid.SelectVisuals.test/invalid/Minecraft" />
+      <facet id="com.yourname.modid.SelectVisualsOLD.main/invalid/Minecraft" />
+      <facet id="com.yourname.modid.SelectVisualsOLD.test/invalid/Minecraft" />
+    </ignored-facets>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2StNSfU81G8304UtwdfLNfCbCsN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.HitMarker [build].executor": "Run",
+    "Gradle.SelectVisualsOLD [build].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "<unknown>",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Donisherok/Documents/Select/Clients/Cheat/SelectClient 2.0",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15332031",
+    "project.structure.side.proportion": "0.4457275",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rapol\Desktop\SelectVisuals\src\main\java\me\xenon\select\implants\visual" />
+      <recent name="C:\Users\rapol\Desktop\Select\SelectVisualsOLD\src\main\resources\assets\selectvisual\textures\gui" />
+      <recent name="C:\Users\rapol\Desktop\Select\SelectVisualsOLD\src\main\java\me\xenon\select\mixin" />
+      <recent name="C:\Users\rapol\Desktop\Select\SelectVisualsOLD\src\main\resources\assets\selectvisual\textures\visual" />
+      <recent name="C:\Users\rapol\Desktop\Select\SelectVisualsOLD\src\main\java\me\xenon\select\implants\render" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rapol\Desktop\SelectVisuals\src\main\java\me\xenon\select\implants\world" />
+      <recent name="C:\Users\rapol\Desktop\Select\SelectVisualsOLD\src\main\resources\assets\selectvisual\textures\gui" />
+      <recent name="C:\Users\rapol\Desktop\Select\SelectVisualsOLD\src\main\resources\assets\selectvisual\font" />
+      <recent name="C:\Users\rapol\Desktop\Select\SelectVisuals\src\main\resources\assets\selectvisual\textures\visual" />
+      <recent name="C:\Users\rapol\Desktop\Select\SelectVisuals\src\main\resources\assets\selectvisual\sounds" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="me.xenon.select.mainmenu" />
+      <recent name="me.xenon.select.implants.player" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="me.xenon.select.particle" />
+      <recent name="me.xenon.select.implants.render" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle ./gradlew clean build" />
+      <command value="gradle /gradlew clean build" />
+      <command value="SelectHelper [/gradlew clean build]" />
+      <command value="gradle --refresh-keys" />
+      <command value="gradle --refresh-dependencies" />
+      <command value="gradle --no-rebuild" />
+      <command value="gradle build" />
+      <command value="gradle runClient" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.HitMarker [build]">
+    <configuration name="C:/Users/rapol/Desktop/Новая папка (4)/SelectVisuals" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--refresh-keys" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="C:/Users/rapol/Desktop/Новая папка (5)/SelectVisuals" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--refresh-dependencies" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="HitMarker [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="SelectHelper [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="SelectVisualsOLD [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--debug" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runClient" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.runClient" />
+      <item itemvalue="Application.runData" />
+      <item itemvalue="Application.runServer" />
+      <item itemvalue="Gradle.HitMarker [build]" />
+      <item itemvalue="Gradle.SelectVisualsOLD [runClient]" />
+      <item itemvalue="Gradle.C:/Users/rapol/Desktop/Новая папка (5)/SelectVisuals" />
+      <item itemvalue="Gradle.C:/Users/rapol/Desktop/Новая папка (4)/SelectVisuals" />
+      <item itemvalue="Gradle.SelectHelper [build]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.HitMarker [build]" />
+        <item itemvalue="Gradle.SelectVisualsOLD [runClient]" />
+        <item itemvalue="Gradle.SelectHelper [build]" />
+        <item itemvalue="Gradle.C:/Users/rapol/Desktop/Новая папка (5)/SelectVisuals" />
+        <item itemvalue="Gradle.C:/Users/rapol/Desktop/Новая папка (4)/SelectVisuals" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50784768-4cc9-48a9-b901-c650eafab585" name="Changes" comment="" />
+      <created>1689961918516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689961918516</updated>
+      <workItem from="1689961919594" duration="1044000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
