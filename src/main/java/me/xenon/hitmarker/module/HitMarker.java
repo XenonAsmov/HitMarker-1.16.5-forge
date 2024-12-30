@@ -96,7 +96,7 @@ public class HitMarker implements Wrapper {
         }
 
         boolean isExpired() {
-            return System.currentTimeMillis() - creationTime > 3000;
+            return System.currentTimeMillis() - creationTime > 3000; // 3 sec
         }
 
         long getAge() {
