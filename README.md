@@ -2,7 +2,7 @@
 
 This repository contains the source code for the **HitMarker** mod for **Minecraft Forge 1.16.5**. The mod adds a hit marker for players and works with a **snapshot version of the mappings** `version: '20210309-1.16.5'`.
 
-
+## How to Install
 
 1. **Install Minecraft and Forge**:
    - Download and install **Minecraft** (version 1.16.5).
