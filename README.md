@@ -33,9 +33,3 @@ This repository contains the source code for the **HitMarker** mod for **Minecra
 - **Toggle Control**:
   - Press **F7** to enable the hit marker.
   - Press **F8** to disable the hit marker.
-
-## Screenshot
-
-Here’s a preview of the HitMarker mod in action:
-
-![HitMarker Preview](https://cdn.discordapp.com/attachments/1323239804502020147/1323313494187053116/image.png?ex=67740f3a&is=6772bdba&hm=8b03b915882d86c2a42900c8dc242a2114d2f9ee42b0e49388704233069d5684)
